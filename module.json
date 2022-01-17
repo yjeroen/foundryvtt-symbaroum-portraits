@@ -25,7 +25,7 @@
 			"type": "module"
 		}
 	],
-    "url": "https://github.com/xx/vtt-xxx",
-    "manifest": "https://raw.githubusercontent.com/xxx/vtt-xxx/09x-update/module.json",
-    "download": "https://github.com/xx/vtt-xxx/releases/download/2.4.1/2.4.1.zip"
+    "url": "https://github.com/yjeroen/foundryvtt-symbaroum-portraits",
+    "manifest": "https://raw.githubusercontent.com/yjeroen/foundryvtt-symbaroum-portraits/main/module.json",
+    "download": "https://github.com/yjeroen/foundryvtt-symbaroum-portraits/releases/download/v1.0/foundryvtt-symbaroum-portraits.zip"
  }
