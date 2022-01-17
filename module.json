@@ -1,0 +1,31 @@
+{   
+	"name": "symbaroum-portraits",   
+	"title": "Symbaroum NPC Portraits",   
+	"description": "Adds a compendium with NPC Portraits of the Symbaroum adventures.",   
+	"author": "yeroon#2590",
+	"version": "1.0.0",
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion": "10",
+	"packs": [
+		{
+			"name": "npc-portraits",
+			"label": "Symbaroum NPC Portraits",
+			"path": "packs/journalentries.db",
+			"entity": "JournalEntry",
+			"module": "symbaroum-portraits"
+		}
+	],
+	"dependencies": [
+		{
+			"name": "compendium-folders",
+			"type": "module"
+		},
+		{
+			"name": "lib-wrapper",
+			"type": "module"
+		}
+	],
+    "url": "https://github.com/xx/vtt-xxx",
+    "manifest": "https://raw.githubusercontent.com/xxx/vtt-xxx/09x-update/module.json",
+    "download": "https://github.com/xx/vtt-xxx/releases/download/2.4.1/2.4.1.zip"
+ }
