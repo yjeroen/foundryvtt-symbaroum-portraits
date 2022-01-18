@@ -12,3 +12,5 @@ Install this module via the Manifest URL: https://raw.githubusercontent.com/yjer
 ![Foundry Version](https://img.shields.io/badge/dynamic/json.svg?url=https://raw.githubusercontent.com/yjeroen/foundryvtt-symbaroum-portraits/main/module.json&label=foundry%20version&query=$.compatibleCoreVersion&colorB=blueviolet)
 ![Downloads](https://img.shields.io/github/downloads/yjeroen/foundryvtt-symbaroum-portraits/total)
 ![GitHub issues](https://img.shields.io/github/issues/yjeroen/foundryvtt-symbaroum-portraits?colorB=red)
+
+![image](https://user-images.githubusercontent.com/1303988/149886249-9a5c2e05-e37f-441c-bdf2-917e875530c0.png)
